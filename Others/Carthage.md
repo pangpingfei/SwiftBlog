@@ -52,4 +52,4 @@ $(SRCROOT)/Carthage/Build/iOS/Localize_Swift.framework
 **最后command+B编译一下，并在代码里import xxx.framework试试吧！**
 
 
-[本文Github地址>>>](https://github.com/pangpingfei/CodingLife/blob/master/Carthage.md)
+[本文简书地址>>>](http://www.jianshu.com/p/ab2768af4d94)
