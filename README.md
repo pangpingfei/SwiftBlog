@@ -12,3 +12,4 @@
 
 ### 其它（Swift之外）
 1. [Markdown常用代码总结](https://github.com/pangpingfei/SwiftBlog/blob/master/Others/Markdown.md)
+2. [Carthage的一般使用](https://github.com/pangpingfei/SwiftBlog/blob/master/Others/Carthage.md)
