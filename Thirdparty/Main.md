@@ -13,7 +13,7 @@
 
 ## 数据库
 * [Realm](https://github.com/realm/realm-cocoa)
-* [YTKKeyValueStore_Swift](https://github.com/sgxiang/YTKKeyValueStore_Swift)(Sqlite封装)
+* [YTKKeyValueStore_Swift](https://github.com/sgxiang/YTKKeyValueStore_Swift)
 
 ## 本地化(多语言)
 * [Localize-Swift](https://github.com/marmelroy/Localize-Swift)
